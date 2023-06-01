@@ -1,4 +1,4 @@
-# Poem Autocompletion
+# Poem Autosuggestion
 
 This Colab Notebook provides a poem autocomplete feature. It suggests completions for a given input sequence of words. The model used in this notebook is trained on a custom dataset.
 
