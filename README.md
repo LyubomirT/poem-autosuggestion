@@ -42,4 +42,4 @@ Contributions to this project are welcome! If you have ideas for improvements or
 
 ## License
 
-This project is licensed under the [BSD-2 Clause Simplified](LICENSE).
+This project is licensed under the [BSD 2-Clause Simplified License](LICENSE).
