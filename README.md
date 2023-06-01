@@ -29,7 +29,9 @@ To use this Colab Notebook, follow these steps:
 ## Examples
 
 (length = 1; seed = 124) ` dreams come ` -> ` dreams come and `
+
 (length = 3; seed = 1917) ` realm ` -> ` realm strides, lyrical springs `
+
 (length = 7; seed = 2364) ` two souls ` -> ` two souls guarding gather, kindness roaring becomes sun passion's `
 
 Feel free to experiment with different settings and input sequences to generate diverse poem suggestions.
