@@ -4,7 +4,7 @@ This Colab Notebook provides a poem autocomplete feature. It suggests completion
 
 ## Dataset
 
-The dataset used for training the autocomplete model is stored in a file called `data.txt`. Each line in the file represents a poem. The dataset is tokenized and processed before training.
+The dataset used for training the autocomplete model is stored in a file called `data.txt`. Each four lines in the file represent a poem. The dataset is tokenized and processed before training.
 
 ## Model Architecture
 
@@ -38,7 +38,7 @@ Feel free to experiment with different settings and input sequences to generate 
 
 ## Contributing
 
-Contributions to this project are welcome! If you have ideas for improvements or want to add new features, please create a pull request.
+Contributions to this project are welcome! If you have ideas for improvements or want to add new features, please create a pull request, or start an issue.
 
 ## License
 
