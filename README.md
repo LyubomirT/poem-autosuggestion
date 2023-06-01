@@ -26,9 +26,11 @@ To use this Colab Notebook, follow these steps:
 
 6. Run the model by executing the last code cell. Adjust the settings in the form to specify the maximum length of the autocompletion, the seed value for the beam search, and the input sequence for which you want suggestions. The model will generate autocompletions using beam search and display the suggested completions.
 
-## Example
+## Examples
 
-
+(length = 1; seed = 124) ` dreams come ` -> ` dreams come and `
+(length = 3; seed = 1917) ` realm ` -> ` realm strides, lyrical springs `
+(length = 7; seed = 2364) ` two souls ` -> ` two souls guarding gather, kindness roaring becomes sun passion's `
 
 Feel free to experiment with different settings and input sequences to generate diverse poem suggestions.
 
